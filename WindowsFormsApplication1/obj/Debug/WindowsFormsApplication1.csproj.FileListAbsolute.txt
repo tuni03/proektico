@@ -1,0 +1,15 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Admin\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\proekt\проект\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\proekt\проект\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\proekt\проект\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Trifo\Source\Repos\proekt_1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Trifo\Source\Repos\proekt_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Trifo\Source\Repos\proekt_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
