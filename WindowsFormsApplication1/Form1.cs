@@ -24,15 +24,13 @@ namespace WindowsFormsApplication1
 
         private void Button6_Click(object sender, EventArgs e)
         {
-        
-    TextBox1.Text= TextBox1.Text+"0";//текстовото поле за фаренхайт да присвои стойността  0  
-
+         TextBox1.Text= TextBox1.Text+"0";//текстовото поле за фаренхайт да присвои стойността  0
         }
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            TextBox1.Text= TextBox1.Text+"1";//текстовото поле за фаренхайт да присвои стойността  1
-
+            TextBox1.Text = TextBox1.Text + "1";//текстовото поле за фаренхайт да присвои стойността  1
+        }
         private void Button2_Click(object sender, EventArgs e)
         {
             TextBox1.Text= TextBox1.Text+"2";//текстовото поле за фаренхайт да присвои стойността  2      
@@ -40,7 +38,7 @@ namespace WindowsFormsApplication1
 
         private void Button3_Click(object sender, EventArgs e)
         {
-            TextBox1.Text= TextBox1.Text+ "3"//текстовото поле за фаренхайт да присвои стойността  3
+            TextBox1.Text = TextBox1.Text + "3";//текстовото поле за фаренхайт да присвои стойността  3
         }
 
         private void Button12_Click(object sender, EventArgs e)
@@ -80,8 +78,8 @@ namespace WindowsFormsApplication1
 
         private void Button4_Click(object sender, EventArgs e)
         {
-            TextBox1.Text= TextBox1.Text + ".";//добавяне на десетична запетая        }
-
+            TextBox1.Text = TextBox1.Text + ".";//добавяне на десетична запетая
+        }
         private void Button14_Click(object sender, EventArgs e)
         {
             TextBox1.Text= " ";//стойностите на текстовото поле да се изтрият
@@ -103,7 +101,5 @@ namespace WindowsFormsApplication1
             TextBox2.Text = Convert.ToString((value - 32) * 5 / 9 + 273.15);
             TextBox3.Text = Convert.ToString((5.0 / 9) * (value - 32));
         }
-
-        
     }
 }
